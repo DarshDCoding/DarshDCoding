@@ -1,3 +1,3 @@
-### Hi, I'm Subhash!
+### Hi, I'm Darsh!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshdcoding&show_icons=true&theme=radical)
